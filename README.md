@@ -1,7 +1,7 @@
 # DragonValley
 Programming Environment: Visual C++ 2015, gcc version 3.4.2
 
-The way to compile the code in console is use> g++ *.cpp -o DragonValley
+The way to compile the code in console is use> g++ *.cpp -o DragonValley -std=c++11
 
  I use C++ to implement a role-playing game called Dragon Valley. The story of the game is about a knight who is going into Dragon Valley to find treasure, but the treasure is guarded by the dragon, so the knight has to defeat the dragon to get the treasure. The player will take the role of knight in this game, and there is an elf who provides the map, the item box, and the information of dragon's position. The player has to move his or her position to find the dragon and also kill randomly generated small monsters to level up, raise his health points and attack points, and also get items from monsters to enhance the role's ability. If the role is too weak, the monster could defeat the player. The role's health point would become zero, and he or she will lose the game.    
 
